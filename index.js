@@ -4,8 +4,6 @@ var ans1  = document.getElementById(example1);
      var ans2 = document.getElementById(example2);
  
      console.log(ans1);
-
-
 // var form = document.getElementById("form").addEventListener(('submit'),(event)=>{
 //      event.preventDefault();
 // })
